@@ -4,9 +4,6 @@ sklearn
 yfinance
 pandas
 numpy
-PyYAML
-argparse
-joblib
 seaborn
 matplotlib
 lightgbm
@@ -16,3 +13,4 @@ gunicorn
 pytest
 tox
 pandas_datareader
+plotly
