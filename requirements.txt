@@ -1,0 +1,18 @@
+# third party packages
+streamlit
+sklearn
+yfinance
+pandas
+numpy
+PyYAML
+argparse
+joblib
+seaborn
+matplotlib
+lightgbm
+flake8
+flask
+gunicorn
+pytest
+tox
+pandas_datareader
